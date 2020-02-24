@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+spark-warehouse/
+NASA_access_log_Aug95.gz
+NASA_access_log_Jul95.gz
